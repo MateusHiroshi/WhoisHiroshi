@@ -3,21 +3,20 @@ Meu nome é Mateus Hiroshi e eu sou um DEVELOPER **APAIXONADO**.
 
 📫 Para entrar em contato use o e-mail: **mateushiroshi17@gmail.com**
   
-## Conecte-se comigo:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mateus-hiroshi/)
+ Conecte-se comigo: https://www.linkedin.com/in/mateus-hiroshi/
+ 
+## Stack Tecnológica
 
-Stack Tecnológica
-
-Front-End:
+### Front-End:
 JavaScript, HTML, CSS
 
-Back-End:
+### Back-End:
 C, C#, Python, Java, SQL, VBA, Batch/Script
 
-DevOps:
+### DevOps:
 Git, Linux
 
-Ferramentas:
+### Ferramentas:
 Excel, Word, PowerPoint, Acces
 
 
