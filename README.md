@@ -3,7 +3,7 @@ Meu nome é Mateus Hiroshi e eu sou um DEVELOPER **APAIXONADO**.
 
 📫 Para entrar em contato use o e-mail: **mateushiroshi17@gmail.com**
   
-### Conecte-se comigo:
+## Conecte-se comigo:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mateus-hiroshi/)
 
 Stack Tecnológica
